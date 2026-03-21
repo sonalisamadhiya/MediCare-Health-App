@@ -24,10 +24,11 @@ MediCare provides the following features:
 ---
 
 ## 🛠️ Core Languages  
-
-- **HTML** → Structure of the webpage  
+ 
+- **React (Vite)** → Frontend framework for building UI components  
 - **CSS** → Styling of the webpage  
-- **JavaScript** → App logic, browser interaction, API handling, event management  
+- **JavaScript (ES6+)** → Application logic and interactivity
+- **Tailwind CSS** → Utility-first CSS framework  
 
 ---
 
